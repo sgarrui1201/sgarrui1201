@@ -81,6 +81,5 @@ Me especializo en crear aplicaciones web interactivas y robustas, así como apli
 
 * **LinkedIn:** [linkedin.com/in/samuel-garcía-ruiz](https://www.linkedin.com/in/samuel-garc%C3%ADa-ruiz-2b0717414/)
 * **Email:** [samuelgarciaruiz2003@gmail.com](mailto:samuelgarciaruiz2003@gmail.com)
-* **Teléfono:** (+34) 633 518 454
 
 ¡Siempre estoy dispuesto a aprender, colaborar y aportar valor en nuevos proyectos de desarrollo de software! 🚀
